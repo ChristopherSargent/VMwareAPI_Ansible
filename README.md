@@ -1,4 +1,4 @@
-# VMwareAPI_Ansible
+# vmware_api_ansible
 Manage VMware Infrastructure Via Ansible and Pyvmomi
 
 Install pymomi:
